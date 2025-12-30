@@ -1,0 +1,552 @@
+mineral,flow,country,value_usd_mn
+Copper,Export,CHINA,5379.5199999999995
+Copper,Export,SAUDI ARAB,1568.6699999999998
+Copper,Export,MALAYSIA,455.48
+Copper,Export,QATAR,397.46
+Copper,Export,SOUTH KOREA,275.75
+Copper,Export,SINGAPORE,246.17000000000002
+Copper,Export,U ARAB EMTS,231.42000000000002
+Copper,Export,TAIWAN,211.1
+Copper,Export,NEPAL,143.55
+Copper,Export,SRI LANKA DSR,79.5
+Copper,Export,GERMANY,50.339999999999996
+Copper,Export,THAILAND,48.15
+Copper,Export,BANGLADESH PR,46.83
+Copper,Export,INDONESIA,40.1
+Copper,Export,SOUTH AFRICA,36.75
+Copper,Export,PHILIPPINES,34.19
+Copper,Export,USA,19.63
+Copper,Export,OMAN,17.330000000000002
+Copper,Export,NETHERLAND,15.98
+Copper,Export,VIETNAM SOC REP,10.860000000000001
+Copper,Export,AUSTRALIA,7.839999999999999
+Copper,Export,TURKEY,6.7
+Copper,Export,UK,6.47
+Copper,Export,BELGIUM,5.9799999999999995
+Copper,Export,FRANCE,5.43
+Copper,Export,UNSPECIFIED,5.43
+Copper,Export,JAPAN,5.42
+Copper,Export,GHANA,5.32
+Copper,Export,ITALY,4.83
+Copper,Export,BRAZIL,4.109999999999999
+Copper,Export,SPAIN,3.84
+Copper,Export,TANZANIA,3.58
+Copper,Export,KENYA,3.02
+Copper,Export,MEXICO,2.88
+Copper,Export,SENEGAL,2.8200000000000003
+Copper,Export,NIGERIA,2.44
+Copper,Export,NEW ZEALAND,1.88
+Copper,Export,TUNISIA,1.8399999999999999
+Copper,Export,MAURITANIA,1.34
+Copper,Export,BHUTAN,1.32
+Copper,Export,CAMEROON,1.3199999999999998
+Copper,Export,RUSSIA,1.23
+Copper,Export,CANADA,1.1600000000000001
+Copper,Export,MYANMAR,1.0
+Copper,Export,JORDAN,0.89
+Copper,Export,GUYANA,0.8799999999999999
+Copper,Export,HONG KONG,0.78
+Copper,Export,POLAND,0.73
+Copper,Export,SWEDEN,0.7000000000000001
+Copper,Export,PAKISTAN IR,0.7
+Copper,Export,EGYPT A RP,0.66
+Copper,Export,NICARAGUA,0.64
+Copper,Export,NORWAY,0.64
+Copper,Export,SWITZERLAND,0.63
+Copper,Export,GUINEA,0.62
+Copper,Export,IRAN,0.62
+Copper,Export,FINLAND,0.61
+Copper,Export,SERBIA,0.61
+Copper,Export,SIERRA LEONE,0.6
+Copper,Export,AFGHANISTAN,0.5900000000000001
+Copper,Export,TOGO,0.57
+Copper,Export,CHILE,0.49
+Copper,Export,UGANDA,0.46
+Copper,Export,AUSTRIA,0.45999999999999996
+Copper,Export,LIBERIA,0.44
+Copper,Export,MALI,0.43
+Copper,Export,CUBA,0.42
+Copper,Export,ZAMBIA,0.4
+Copper,Export,DJIBOUTI,0.39
+Copper,Export,MALDIVES,0.39
+Copper,Export,ETHIOPIA,0.38
+Copper,Export,COLOMBIA,0.35000000000000003
+Copper,Export,BAHARAIN IS,0.32
+Copper,Export,IRELAND,0.32
+Copper,Export,PAPUA NEW GUINEA,0.30000000000000004
+Copper,Export,COTE D' IVOIRE,0.3
+Copper,Export,KAZAKHSTAN,0.3
+Copper,Export,ISRAEL,0.27
+Copper,Export,UKRAINE,0.24
+Copper,Export,BURUNDI,0.23
+Copper,Export,ROMANIA,0.22
+Copper,Export,ANGOLA,0.21999999999999997
+Copper,Export,RWANDA,0.21
+Copper,Export,ALGERIA,0.2
+Copper,Export,CONGO D. REP.,0.2
+Copper,Export,KUWAIT,0.18
+Copper,Export,MADAGASCAR,0.16999999999999998
+Copper,Export,MOROCCO,0.16999999999999998
+Copper,Export,ESTONIA,0.15
+Copper,Export,MAURITIUS,0.15
+Copper,Export,SLOVENIA,0.14
+Copper,Export,CAMBODIA,0.12
+Copper,Export,PERU,0.12
+Copper,Export,PORTUGAL,0.12
+Copper,Export,GREECE,0.09
+Copper,Export,MOZAMBIQUE,0.09
+Copper,Export,YEMEN REPUBLC,0.09
+Copper,Export,CZECH REPUBLIC,0.07
+Copper,Export,SUDAN,0.07
+Copper,Export,COSTA RICA,0.06
+Copper,Export,HUNGARY,0.05
+Copper,Export,SURINAME,0.05
+Copper,Export,GABON,0.04
+Copper,Export,MALAWI,0.04
+Copper,Export,ARGENTINA,0.03
+Copper,Export,BURKINA FASO,0.03
+Copper,Export,GAMBIA,0.03
+Copper,Export,LIBYA,0.03
+Copper,Export,BENIN,0.02
+Copper,Export,DOMINICA,0.02
+Copper,Export,ERITREA,0.02
+Copper,Export,MALTA,0.02
+Copper,Export,PALAU,0.02
+Copper,Export,ST VINCENT,0.02
+Copper,Export,CROATIA,0.01
+Copper,Export,GEORGIA,0.01
+Copper,Export,GUADELOUPE,0.01
+Copper,Export,HONDURAS,0.01
+Copper,Export,ICELAND,0.01
+Copper,Export,IRAQ,0.01
+Copper,Export,LITHUANIA,0.01
+Copper,Export,NAMIBIA,0.01
+Copper,Export,REUNION,0.01
+Copper,Export,SEYCHELLES,0.01
+Copper,Export,SOMALIA,0.01
+Copper,Export,URUGUAY,0.01
+Copper,Export,ZIMBABWE,0.01
+Copper,Import,JAPAN,8672.789999999999
+Copper,Import,CHILE,7584.72
+Copper,Import,INDONESIA,5281.77
+Copper,Import,U ARAB EMTS,3908.28
+Copper,Import,AUSTRALIA,2707.88
+Copper,Import,MALAYSIA,2290.62
+Copper,Import,PERU,2184.73
+Copper,Import,THAILAND,1804.92
+Copper,Import,TANZANIA,1619.73
+Copper,Import,CANADA,924.2
+Copper,Import,VIETNAM SOC REP,738.61
+Copper,Import,BRAZIL,634.5
+Copper,Import,PANAMA,610.79
+Copper,Import,CHINA,499.11
+Copper,Import,PAPUA NEW GUINEA,494.62
+Copper,Import,SAUDI ARAB,322.03
+Copper,Import,MOZAMBIQUE,274.16999999999996
+Copper,Import,PHILIPPINES,190.79
+Copper,Import,GERMANY,173.99
+Copper,Import,SOUTH AFRICA,168.51
+Copper,Import,SINGAPORE,156.69
+Copper,Import,SOUTH KOREA,149.79
+Copper,Import,TAIWAN,119.92999999999999
+Copper,Import,CONGO P REP,108.55
+Copper,Import,CONGO D. REP.,105.47
+Copper,Import,ZAMBIA,90.39
+Copper,Import,NAMIBIA,81.81
+Copper,Import,USA,79.93
+Copper,Import,SRI LANKA DSR,66.24
+Copper,Import,ITALY,60.97
+Copper,Import,NETHERLAND,56.09
+Copper,Import,KENYA,40.83
+Copper,Import,MEXICO,33.230000000000004
+Copper,Import,TURKEY,31.38
+Copper,Import,COLOMBIA,29.88
+Copper,Import,AUSTRIA,28.12
+Copper,Import,LAO PD RP,26.7
+Copper,Import,SPAIN,25.5
+Copper,Import,BELGIUM,17.58
+Copper,Import,SWITZERLAND,16.04
+Copper,Import,HONG KONG,9.100000000000001
+Copper,Import,UK,7.34
+Copper,Import,LUXEMBOURG,5.97
+Copper,Import,GEORGIA,5.89
+Copper,Import,EGYPT A RP,4.76
+Copper,Import,RUSSIA,3.98
+Copper,Import,MAURITIUS,3.57
+Copper,Import,SLOVENIA,3.4
+Copper,Import,FRANCE,3.0700000000000003
+Copper,Import,GUINEA,3.01
+Copper,Import,RWANDA,2.48
+Copper,Import,FINLAND,1.9600000000000002
+Copper,Import,ANGOLA,1.71
+Copper,Import,QATAR,1.71
+Copper,Import,BHUTAN,1.11
+Copper,Import,LEBANON,1.1
+Copper,Import,SWEDEN,1.04
+Copper,Import,LITHUANIA,0.95
+Copper,Import,BANGLADESH PR,0.77
+Copper,Import,NEPAL,0.64
+Copper,Import,CAMEROON,0.52
+Copper,Import,UZBEKISTAN,0.44999999999999996
+Copper,Import,AFGHANISTAN,0.36
+Copper,Import,BAHARAIN IS,0.35
+Copper,Import,NIGERIA,0.33
+Copper,Import,LATVIA,0.31
+Copper,Import,KUWAIT,0.3
+Copper,Import,BENIN,0.26
+Copper,Import,SOMALIA,0.25
+Copper,Import,GABON,0.23
+Copper,Import,CZECH REPUBLIC,0.22
+Copper,Import,MALI,0.18
+Copper,Import,NORWAY,0.15000000000000002
+Copper,Import,YEMEN REPUBLC,0.15
+Copper,Import,HUNGARY,0.1
+Copper,Import,UNSPECIFIED,0.060000000000000005
+Copper,Import,NEW ZEALAND,0.06
+Copper,Import,TUNISIA,0.06
+Copper,Import,MOROCCO,0.04
+Copper,Import,MADAGASCAR,0.03
+Copper,Import,OMAN,0.03
+Copper,Import,PORTUGAL,0.03
+Copper,Import,IRAN,0.02
+Copper,Import,POLAND,0.02
+Copper,Import,TOGO,0.02
+Copper,Import,UGANDA,0.02
+Copper,Import,BOSNIA-HRZGOVIN,0.01
+Copper,Import,ETHIOPIA,0.01
+Copper,Import,ISRAEL,0.01
+Copper,Import,NETHERLANDANTIL,0.01
+Copper,Import,PUERTO RICO,0.01
+Graphite,Export,GERMANY,143.77
+Graphite,Export,USA,61.76
+Graphite,Export,BHUTAN,31.75
+Graphite,Export,SAUDI ARAB,29.62
+Graphite,Export,U ARAB EMTS,23.08
+Graphite,Export,KUWAIT,10.01
+Graphite,Export,OMAN,9.94
+Graphite,Export,BANGLADESH PR,9.91
+Graphite,Export,TURKEY,7.84
+Graphite,Export,UK,7.06
+Graphite,Export,UNSPECIFIED,6.33
+Graphite,Export,BELGIUM,5.19
+Graphite,Export,SPAIN,4.65
+Graphite,Export,ITALY,4.4
+Graphite,Export,ZAMBIA,3.94
+Graphite,Export,TANZANIA,3.67
+Graphite,Export,JAPAN,3.18
+Graphite,Export,MALAYSIA,3.14
+Graphite,Export,EGYPT A RP,3.11
+Graphite,Export,SOUTH AFRICA,2.42
+Graphite,Export,IRAN,2.3899999999999997
+Graphite,Export,AUSTRALIA,2.1
+Graphite,Export,SWEDEN,1.83
+Graphite,Export,INDONESIA,1.6800000000000002
+Graphite,Export,ISRAEL,1.65
+Graphite,Export,NETHERLAND,1.65
+Graphite,Export,SOUTH KOREA,1.6099999999999999
+Graphite,Export,CHINA,1.52
+Graphite,Export,POLAND,1.37
+Graphite,Export,MEXICO,1.27
+Graphite,Export,THAILAND,1.17
+Graphite,Export,QATAR,1.06
+Graphite,Export,SRI LANKA DSR,1.05
+Graphite,Export,GEORGIA,0.97
+Graphite,Export,JORDAN,0.9500000000000001
+Graphite,Export,FRANCE,0.9
+Graphite,Export,CANADA,0.79
+Graphite,Export,NIGERIA,0.73
+Graphite,Export,KENYA,0.68
+Graphite,Export,BRAZIL,0.6799999999999999
+Graphite,Export,NEPAL,0.5599999999999999
+Graphite,Export,NORWAY,0.52
+Graphite,Export,RUSSIA,0.51
+Graphite,Export,ARGENTINA,0.44000000000000006
+Graphite,Export,SUDAN,0.4
+Graphite,Export,VIETNAM SOC REP,0.37
+Graphite,Export,SLOVAK REP,0.31
+Graphite,Export,SINGAPORE,0.29000000000000004
+Graphite,Export,BAHARAIN IS,0.28
+Graphite,Export,AZERBAIJAN,0.27
+Graphite,Export,BRUNEI,0.26
+Graphite,Export,UGANDA,0.24
+Graphite,Export,ETHIOPIA,0.22
+Graphite,Export,IRAQ,0.21000000000000002
+Graphite,Export,LIBYA,0.2
+Graphite,Export,BULGARIA,0.18
+Graphite,Export,MOROCCO,0.17
+Graphite,Export,NEW ZEALAND,0.16999999999999998
+Graphite,Export,ECUADOR,0.16
+Graphite,Export,CONGO D. REP.,0.15
+Graphite,Export,PHILIPPINES,0.12
+Graphite,Export,ZIMBABWE,0.11
+Graphite,Export,ALGERIA,0.09
+Graphite,Export,COLOMBIA,0.09
+Graphite,Export,GHANA,0.09
+Graphite,Export,MAURITANIA,0.05
+Graphite,Export,PAPUA NEW GUINEA,0.05
+Graphite,Export,SENEGAL,0.04
+Graphite,Export,TUNISIA,0.04
+Graphite,Export,UKRAINE,0.04
+Graphite,Export,ANGOLA,0.03
+Graphite,Export,CONGO P REP,0.03
+Graphite,Export,DOMINIC REP,0.03
+Graphite,Export,MAURITIUS,0.03
+Graphite,Export,PAKISTAN IR,0.03
+Graphite,Export,SERBIA,0.03
+Graphite,Export,TURKMENISTAN,0.03
+Graphite,Export,UZBEKISTAN,0.03
+Graphite,Export,AFGHANISTAN,0.02
+Graphite,Export,AUSTRIA,0.02
+Graphite,Export,BELARUS,0.02
+Graphite,Export,CAMEROON,0.02
+Graphite,Export,IRELAND,0.02
+Graphite,Export,MALAWI,0.02
+Graphite,Export,PERU,0.02
+Graphite,Export,SLOVENIA,0.02
+Graphite,Export,TAIWAN,0.02
+Graphite,Export,YEMEN REPUBLC,0.02
+Graphite,Export,CHILE,0.01
+Graphite,Export,GABON,0.01
+Graphite,Export,GAMBIA,0.01
+Graphite,Export,GUINEA,0.01
+Graphite,Export,LEBANON,0.01
+Graphite,Export,LIBERIA,0.01
+Graphite,Export,MALDIVES,0.01
+Graphite,Export,MOZAMBIQUE,0.01
+Graphite,Export,MYANMAR,0.01
+Graphite,Export,NICARAGUA,0.01
+Graphite,Export,SIERRA LEONE,0.01
+Graphite,Export,SWITZERLAND,0.01
+Graphite,Import,CHINA,513.65
+Graphite,Import,GERMANY,146.8
+Graphite,Import,MADAGASCAR,78.73
+Graphite,Import,POLAND,57.53
+Graphite,Import,UK,44.17
+Graphite,Import,JAPAN,43.67
+Graphite,Import,FRANCE,38.64
+Graphite,Import,USA,33.0
+Graphite,Import,MOZAMBIQUE,30.48
+Graphite,Import,NORWAY,29.03
+Graphite,Import,NETHERLAND,17.7
+Graphite,Import,U ARAB EMTS,13.08
+Graphite,Import,MALAYSIA,10.09
+Graphite,Import,SOUTH KOREA,8.67
+Graphite,Import,TANZANIA,7.040000000000001
+Graphite,Import,ITALY,6.640000000000001
+Graphite,Import,BELGIUM,5.86
+Graphite,Import,BRAZIL,5.49
+Graphite,Import,SOUTH AFRICA,4.22
+Graphite,Import,HONG KONG,4.0200000000000005
+Graphite,Import,RUSSIA,3.97
+Graphite,Import,SWEDEN,3.88
+Graphite,Import,AUSTRIA,3.3200000000000003
+Graphite,Import,BAHARAIN IS,3.11
+Graphite,Import,SWITZERLAND,2.91
+Graphite,Import,VIETNAM SOC REP,2.53
+Graphite,Import,SINGAPORE,2.16
+Graphite,Import,SAUDI ARAB,1.74
+Graphite,Import,SLOVAK REP,1.68
+Graphite,Import,CANADA,1.56
+Graphite,Import,TAIWAN,1.48
+Graphite,Import,SRI LANKA DSR,1.36
+Graphite,Import,OMAN,1.06
+Graphite,Import,SLOVENIA,0.77
+Graphite,Import,QATAR,0.5700000000000001
+Graphite,Import,IRAN,0.53
+Graphite,Import,MEXICO,0.48000000000000004
+Graphite,Import,SPAIN,0.48
+Graphite,Import,THAILAND,0.45
+Graphite,Import,AUSTRALIA,0.44
+Graphite,Import,BHUTAN,0.43
+Graphite,Import,VENEZUELA,0.41000000000000003
+Graphite,Import,ZIMBABWE,0.29000000000000004
+Graphite,Import,NEW ZEALAND,0.25
+Graphite,Import,DENMARK,0.22999999999999998
+Graphite,Import,TURKEY,0.21000000000000002
+Graphite,Import,CZECH REPUBLIC,0.16
+Graphite,Import,NIGERIA,0.13999999999999999
+Graphite,Import,UNSPECIFIED,0.08
+Graphite,Import,INDONESIA,0.03
+Graphite,Import,KUWAIT,0.03
+Graphite,Import,NETHERLANDANTIL,0.03
+Graphite,Import,LUXEMBOURG,0.02
+Graphite,Import,ICELAND,0.01
+Graphite,Import,KENYA,0.01
+Graphite,Import,UKRAINE,0.01
+Graphite,Import,ZAMBIA,0.01
+Lithium,Export,USA,69.51
+Lithium,Export,JAPAN,42.99
+Lithium,Export,RUSSIA,37.64
+Lithium,Export,SAUDI ARAB,32.21
+Lithium,Export,U ARAB EMTS,26.95
+Lithium,Export,CHINA,23.36
+Lithium,Export,ITALY,21.21
+Lithium,Export,BELGIUM,19.23
+Lithium,Export,NETHERLAND,15.36
+Lithium,Export,BANGLADESH PR,13.01
+Lithium,Export,OMAN,12.42
+Lithium,Export,FRANCE,10.57
+Lithium,Export,TURKEY,10.47
+Lithium,Export,MALAYSIA,8.18
+Lithium,Export,VIETNAM SOC REP,7.67
+Lithium,Export,LATVIA,6.659999999999999
+Lithium,Export,THAILAND,6.37
+Lithium,Export,EGYPT A RP,6.26
+Lithium,Export,SOUTH KOREA,6.1
+Lithium,Export,NEPAL,6.07
+Lithium,Export,SPAIN,5.8
+Lithium,Export,SOUTH AFRICA,4.98
+Lithium,Export,IRAN,4.17
+Lithium,Export,BRAZIL,3.77
+Lithium,Export,DENMARK,3.52
+Lithium,Export,COTE D' IVOIRE,3.27
+Lithium,Export,INDONESIA,2.88
+Lithium,Export,NIGERIA,2.5
+Lithium,Export,GERMANY,2.47
+Lithium,Export,AUSTRALIA,2.46
+Lithium,Export,HONG KONG,2.39
+Lithium,Export,UK,2.3200000000000003
+Lithium,Export,GHANA,2.16
+Lithium,Export,SRI LANKA DSR,2.13
+Lithium,Export,QATAR,1.79
+Lithium,Export,JORDAN,1.68
+Lithium,Export,KUWAIT,1.46
+Lithium,Export,ESTONIA,1.42
+Lithium,Export,POLAND,1.3599999999999999
+Lithium,Export,TAIWAN,1.32
+Lithium,Export,KENYA,1.19
+Lithium,Export,MEXICO,1.13
+Lithium,Export,MYANMAR,0.91
+Lithium,Export,ETHIOPIA,0.64
+Lithium,Export,ANGOLA,0.62
+Lithium,Export,PERU,0.61
+Lithium,Export,ALGERIA,0.58
+Lithium,Export,CANADA,0.56
+Lithium,Export,ARGENTINA,0.52
+Lithium,Export,TANZANIA,0.45
+Lithium,Export,SINGAPORE,0.44000000000000006
+Lithium,Export,DJIBOUTI,0.44
+Lithium,Export,ISRAEL,0.44
+Lithium,Export,URUGUAY,0.43
+Lithium,Export,COLOMBIA,0.4
+Lithium,Export,PORTUGAL,0.35
+Lithium,Export,LEBANON,0.32
+Lithium,Export,PHILIPPINES,0.32
+Lithium,Export,ECUADOR,0.3
+Lithium,Export,CONGO D. REP.,0.27999999999999997
+Lithium,Export,SUDAN,0.24000000000000002
+Lithium,Export,NEW ZEALAND,0.22
+Lithium,Export,NORWAY,0.22
+Lithium,Export,SWITZERLAND,0.22
+Lithium,Export,HUNGARY,0.21
+Lithium,Export,PAKISTAN IR,0.2
+Lithium,Export,SLOVENIA,0.2
+Lithium,Export,UKRAINE,0.18
+Lithium,Export,UGANDA,0.17
+Lithium,Export,UNSPECIFIED,0.17
+Lithium,Export,SENEGAL,0.16999999999999998
+Lithium,Export,IRAQ,0.15
+Lithium,Export,GREECE,0.14
+Lithium,Export,DOMINIC REP,0.13
+Lithium,Export,ALBANIA,0.09
+Lithium,Export,SIERRA LEONE,0.09
+Lithium,Export,HONDURAS,0.08
+Lithium,Export,MOZAMBIQUE,0.08
+Lithium,Export,CHILE,0.07
+Lithium,Export,YEMEN REPUBLC,0.060000000000000005
+Lithium,Export,IRELAND,0.06
+Lithium,Export,MADAGASCAR,0.06
+Lithium,Export,TUNISIA,0.06
+Lithium,Export,BAHARAIN IS,0.05
+Lithium,Export,BHUTAN,0.05
+Lithium,Export,GUATEMALA,0.05
+Lithium,Export,PARAGUAY,0.05
+Lithium,Export,CAMEROON,0.04
+Lithium,Export,FINLAND,0.04
+Lithium,Export,RWANDA,0.04
+Lithium,Export,CONGO P REP,0.03
+Lithium,Export,CZECH REPUBLIC,0.03
+Lithium,Export,GUINEA,0.03
+Lithium,Export,SWEDEN,0.03
+Lithium,Export,ZAMBIA,0.03
+Lithium,Export,MALDIVES,0.02
+Lithium,Export,NICARAGUA,0.02
+Lithium,Export,ROMANIA,0.02
+Lithium,Export,SYRIA,0.02
+Lithium,Export,UZBEKISTAN,0.02
+Lithium,Export,AFGHANISTAN,0.01
+Lithium,Export,BURKINA FASO,0.01
+Lithium,Export,CHAD,0.01
+Lithium,Export,GAMBIA,0.01
+Lithium,Export,GEORGIA,0.01
+Lithium,Export,GUYANA,0.01
+Lithium,Export,MAURITIUS,0.01
+Lithium,Export,MOROCCO,0.01
+Lithium,Export,NAMIBIA,0.01
+Lithium,Export,TURKMENISTAN,0.01
+Lithium,Import,CHINA,838.89
+Lithium,Import,JAPAN,240.03
+Lithium,Import,AUSTRALIA,174.69
+Lithium,Import,BELGIUM,158.89
+Lithium,Import,USA,157.13
+Lithium,Import,SOUTH KOREA,155.82
+Lithium,Import,FRANCE,144.05
+Lithium,Import,GERMANY,106.66999999999999
+Lithium,Import,RUSSIA,89.82
+Lithium,Import,U ARAB EMTS,65.44
+Lithium,Import,THAILAND,61.65
+Lithium,Import,VIETNAM SOC REP,56.589999999999996
+Lithium,Import,MALAYSIA,50.07
+Lithium,Import,SOUTH AFRICA,45.0
+Lithium,Import,OMAN,32.4
+Lithium,Import,SWEDEN,31.66
+Lithium,Import,BRAZIL,31.099999999999998
+Lithium,Import,NETHERLAND,24.26
+Lithium,Import,TAIWAN,22.55
+Lithium,Import,GUINEA,21.96
+Lithium,Import,CHILE,20.09
+Lithium,Import,UK,19.12
+Lithium,Import,MEXICO,17.669999999999998
+Lithium,Import,SINGAPORE,17.3
+Lithium,Import,INDONESIA,12.02
+Lithium,Import,BAHARAIN IS,11.48
+Lithium,Import,ARGENTINA,11.03
+Lithium,Import,LITHUANIA,10.38
+Lithium,Import,TURKEY,10.290000000000001
+Lithium,Import,BELARUS,10.2
+Lithium,Import,LATVIA,10.06
+Lithium,Import,NORWAY,9.629999999999999
+Lithium,Import,SAUDI ARAB,8.51
+Lithium,Import,HONG KONG,6.18
+Lithium,Import,SPAIN,5.3
+Lithium,Import,SLOVENIA,4.470000000000001
+Lithium,Import,KUWAIT,4.32
+Lithium,Import,ROMANIA,3.9899999999999998
+Lithium,Import,PHILIPPINES,3.12
+Lithium,Import,SWITZERLAND,2.6
+Lithium,Import,IRELAND,1.82
+Lithium,Import,CANADA,1.56
+Lithium,Import,ISRAEL,1.54
+Lithium,Import,AUSTRIA,1.5
+Lithium,Import,ITALY,1.28
+Lithium,Import,VENEZUELA,1.01
+Lithium,Import,GEORGIA,0.78
+Lithium,Import,UKRAINE,0.78
+Lithium,Import,LUXEMBOURG,0.5499999999999999
+Lithium,Import,IRAN,0.5099999999999999
+Lithium,Import,UNSPECIFIED,0.45
+Lithium,Import,DENMARK,0.37
+Lithium,Import,CZECH REPUBLIC,0.27
+Lithium,Import,CYPRUS,0.14
+Lithium,Import,HUNGARY,0.09
+Lithium,Import,FR GUIANA,0.08
+Lithium,Import,PERU,0.07
+Lithium,Import,ESTONIA,0.06
+Lithium,Import,KENYA,0.06
+Lithium,Import,COLOMBIA,0.04
+Lithium,Import,POLAND,0.04
+Lithium,Import,BULGARIA,0.01
+Lithium,Import,EGYPT A RP,0.01
+Lithium,Import,PAKISTAN IR,0.01
+Lithium,Import,SAN MARINO,0.01
+Lithium,Import,TANZANIA,0.01

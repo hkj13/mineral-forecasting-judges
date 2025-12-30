@@ -1,0 +1,20 @@
+{
+  "generated_at": "2025-12-07T16:58:06.603486",
+  "date_range": {
+    "start": "2017-04-01",
+    "end": "2024-12-31"
+  },
+  "minerals": [
+    "Copper",
+    "Lithium",
+    "Graphite"
+  ],
+  "total_records": 3441,
+  "data_files": [
+    "trade_data.csv",
+    "global_prices.csv",
+    "domestic_production.csv",
+    "dependency_metrics.csv",
+    "monthly_aggregated.csv"
+  ]
+}

@@ -1,0 +1,194 @@
+date,mineral,state,production_mt,value_inr_cr
+2017-04-01,Copper,Jharkhand,3245.01,162.25
+2017-05-01,Copper,Jharkhand,3802.86,190.14
+2017-06-01,Copper,Jharkhand,3491.35,174.57
+2017-07-01,Copper,Madhya Pradesh,3098.37,154.92
+2017-08-01,Copper,Jharkhand,3335.42,166.77
+2017-09-01,Copper,Madhya Pradesh,3404.94,170.25
+2017-10-01,Copper,Madhya Pradesh,3185.89,159.29
+2017-11-01,Copper,Rajasthan,3618.86,180.94
+2017-12-01,Copper,Rajasthan,3999.69,199.98
+2018-01-01,Copper,Madhya Pradesh,3359.3,167.96
+2018-02-01,Copper,Rajasthan,3706.19,185.31
+2018-03-01,Copper,Rajasthan,3535.87,176.79
+2018-04-01,Copper,Jharkhand,3585.99,179.3
+2018-05-01,Copper,Rajasthan,3531.44,176.57
+2018-06-01,Copper,Madhya Pradesh,3544.43,177.22
+2018-07-01,Copper,Rajasthan,3664.46,183.22
+2018-08-01,Copper,Jharkhand,3355.01,167.75
+2018-09-01,Copper,Madhya Pradesh,3881.25,194.06
+2018-10-01,Copper,Rajasthan,3853.58,192.68
+2018-11-01,Copper,Madhya Pradesh,3949.26,197.46
+2018-12-01,Copper,Rajasthan,3597.0,179.85
+2019-01-01,Copper,Jharkhand,3297.01,164.85
+2019-02-01,Copper,Rajasthan,3806.14,190.31
+2019-03-01,Copper,Madhya Pradesh,3481.33,174.07
+2019-04-01,Copper,Madhya Pradesh,3676.27,183.81
+2019-05-01,Copper,Madhya Pradesh,3912.55,195.63
+2019-06-01,Copper,Rajasthan,3692.77,184.64
+2019-07-01,Copper,Rajasthan,3949.63,197.48
+2019-08-01,Copper,Rajasthan,3688.83,184.44
+2019-09-01,Copper,Jharkhand,3384.71,169.24
+2019-10-01,Copper,Jharkhand,3734.87,186.74
+2019-11-01,Copper,Jharkhand,3813.27,190.66
+2019-12-01,Copper,Madhya Pradesh,4537.91,226.9
+2020-01-01,Copper,Madhya Pradesh,3670.08,183.5
+2020-02-01,Copper,Madhya Pradesh,3615.66,180.78
+2020-03-01,Copper,Madhya Pradesh,3592.11,179.61
+2020-04-01,Copper,Madhya Pradesh,3695.81,184.79
+2020-05-01,Copper,Rajasthan,3671.47,183.57
+2020-06-01,Copper,Madhya Pradesh,3486.84,174.34
+2020-07-01,Copper,Rajasthan,3774.04,188.7
+2020-08-01,Copper,Jharkhand,3711.48,185.57
+2020-09-01,Copper,Jharkhand,4144.12,207.21
+2020-10-01,Copper,Jharkhand,3756.28,187.81
+2020-11-01,Copper,Jharkhand,4333.45,216.67
+2020-12-01,Copper,Jharkhand,4119.69,205.98
+2021-01-01,Copper,Madhya Pradesh,4193.28,209.66
+2021-02-01,Copper,Madhya Pradesh,3930.49,196.52
+2021-03-01,Copper,Madhya Pradesh,3736.07,186.8
+2021-04-01,Copper,Jharkhand,3769.58,188.48
+2021-05-01,Copper,Jharkhand,3432.19,171.61
+2021-06-01,Copper,Rajasthan,3677.23,183.86
+2021-07-01,Copper,Madhya Pradesh,3818.18,190.91
+2021-08-01,Copper,Jharkhand,3857.21,192.86
+2021-09-01,Copper,Jharkhand,4257.49,212.87
+2021-10-01,Copper,Jharkhand,3988.36,199.42
+2021-11-01,Copper,Rajasthan,3443.93,172.2
+2021-12-01,Copper,Jharkhand,4831.29,241.56
+2022-01-01,Copper,Rajasthan,3940.22,197.01
+2022-02-01,Copper,Rajasthan,4151.06,207.55
+2022-03-01,Copper,Madhya Pradesh,3663.1,183.15
+2022-04-01,Copper,Jharkhand,3954.11,197.71
+2022-05-01,Copper,Rajasthan,3706.19,185.31
+2022-06-01,Copper,Jharkhand,3079.18,153.96
+2022-07-01,Copper,Madhya Pradesh,3580.82,179.04
+2022-08-01,Copper,Madhya Pradesh,3824.77,191.24
+2022-09-01,Copper,Rajasthan,3890.4,194.52
+2022-10-01,Copper,Madhya Pradesh,4053.3,202.67
+2022-11-01,Copper,Madhya Pradesh,3977.56,198.88
+2022-12-01,Copper,Madhya Pradesh,4090.35,204.52
+2023-01-01,Copper,Jharkhand,4025.18,201.26
+2023-02-01,Copper,Jharkhand,3969.99,198.5
+2023-03-01,Copper,Rajasthan,4046.95,202.35
+2023-04-01,Copper,Rajasthan,3812.9,190.64
+2023-05-01,Copper,Madhya Pradesh,4117.78,205.89
+2023-06-01,Copper,Madhya Pradesh,3964.4,198.22
+2023-07-01,Copper,Rajasthan,3887.47,194.37
+2023-08-01,Copper,Madhya Pradesh,4142.83,207.14
+2023-09-01,Copper,Rajasthan,4176.4,208.82
+2023-10-01,Copper,Jharkhand,3938.7,196.94
+2023-11-01,Copper,Madhya Pradesh,4450.36,222.52
+2023-12-01,Copper,Madhya Pradesh,3934.88,196.74
+2024-01-01,Copper,Madhya Pradesh,3705.91,185.3
+2024-02-01,Copper,Jharkhand,4141.73,207.09
+2024-03-01,Copper,Jharkhand,4732.81,236.64
+2024-04-01,Copper,Madhya Pradesh,4173.84,208.69
+2024-05-01,Copper,Rajasthan,4244.79,212.24
+2024-06-01,Copper,Jharkhand,3806.8,190.34
+2024-07-01,Copper,Madhya Pradesh,3743.65,187.18
+2024-08-01,Copper,Madhya Pradesh,4350.78,217.54
+2024-09-01,Copper,Jharkhand,4355.45,217.77
+2024-10-01,Copper,Rajasthan,4606.55,230.33
+2024-11-01,Copper,Madhya Pradesh,4682.53,234.13
+2024-12-01,Copper,Rajasthan,3797.68,189.88
+2024-06-01,Lithium,Jammu & Kashmir,50.0,2.5
+2024-07-01,Lithium,Jammu & Kashmir,55.0,2.75
+2024-08-01,Lithium,Jammu & Kashmir,60.0,3.0
+2024-09-01,Lithium,Jammu & Kashmir,65.0,3.25
+2024-10-01,Lithium,Jammu & Kashmir,70.0,3.5
+2024-11-01,Lithium,Jammu & Kashmir,75.0,3.75
+2024-12-01,Lithium,Jammu & Kashmir,80.0,4.0
+2017-04-01,Graphite,Jharkhand,16182.68,809.13
+2017-05-01,Graphite,Rajasthan,15321.36,766.07
+2017-06-01,Graphite,Rajasthan,15731.46,786.57
+2017-07-01,Graphite,Tamil Nadu,15285.57,764.28
+2017-08-01,Graphite,Jharkhand,15842.53,792.13
+2017-09-01,Graphite,Jharkhand,14713.87,735.69
+2017-10-01,Graphite,Tamil Nadu,15952.68,797.63
+2017-11-01,Graphite,Odisha,16908.61,845.43
+2017-12-01,Graphite,Tamil Nadu,17656.13,882.81
+2018-01-01,Graphite,Tamil Nadu,18229.71,911.49
+2018-02-01,Graphite,Tamil Nadu,16606.74,830.34
+2018-03-01,Graphite,Jharkhand,16728.0,836.4
+2018-04-01,Graphite,Tamil Nadu,14564.28,728.21
+2018-05-01,Graphite,Tamil Nadu,14882.63,744.13
+2018-06-01,Graphite,Tamil Nadu,15398.08,769.9
+2018-07-01,Graphite,Rajasthan,16938.05,846.9
+2018-08-01,Graphite,Odisha,15705.54,785.28
+2018-09-01,Graphite,Odisha,17124.98,856.25
+2018-10-01,Graphite,Odisha,16733.46,836.67
+2018-11-01,Graphite,Odisha,16525.57,826.28
+2018-12-01,Graphite,Jharkhand,17162.84,858.14
+2019-01-01,Graphite,Jharkhand,16116.68,805.83
+2019-02-01,Graphite,Tamil Nadu,15884.48,794.22
+2019-03-01,Graphite,Jharkhand,14853.16,742.66
+2019-04-01,Graphite,Odisha,16116.84,805.84
+2019-05-01,Graphite,Rajasthan,16057.48,802.87
+2019-06-01,Graphite,Tamil Nadu,16044.36,802.22
+2019-07-01,Graphite,Tamil Nadu,17143.84,857.19
+2019-08-01,Graphite,Odisha,17939.8,896.99
+2019-09-01,Graphite,Odisha,17883.82,894.19
+2019-10-01,Graphite,Odisha,18899.66,944.98
+2019-11-01,Graphite,Jharkhand,18822.4,941.12
+2019-12-01,Graphite,Tamil Nadu,17928.68,896.43
+2020-01-01,Graphite,Odisha,16938.92,846.95
+2020-02-01,Graphite,Rajasthan,17723.86,886.19
+2020-03-01,Graphite,Tamil Nadu,18930.71,946.54
+2020-04-01,Graphite,Tamil Nadu,20150.83,1007.54
+2020-05-01,Graphite,Jharkhand,20053.32,1002.67
+2020-06-01,Graphite,Tamil Nadu,17905.28,895.26
+2020-07-01,Graphite,Odisha,17812.38,890.62
+2020-08-01,Graphite,Odisha,18946.2,947.31
+2020-09-01,Graphite,Rajasthan,20035.61,1001.78
+2020-10-01,Graphite,Tamil Nadu,20311.79,1015.59
+2020-11-01,Graphite,Tamil Nadu,19219.29,960.96
+2020-12-01,Graphite,Jharkhand,17523.99,876.2
+2021-01-01,Graphite,Odisha,16845.64,842.28
+2021-02-01,Graphite,Rajasthan,18425.33,921.27
+2021-03-01,Graphite,Odisha,19666.62,983.33
+2021-04-01,Graphite,Tamil Nadu,17900.75,895.04
+2021-05-01,Graphite,Tamil Nadu,18724.43,936.22
+2021-06-01,Graphite,Rajasthan,19807.08,990.35
+2021-07-01,Graphite,Tamil Nadu,17751.85,887.59
+2021-08-01,Graphite,Rajasthan,20350.72,1017.54
+2021-09-01,Graphite,Rajasthan,19367.13,968.36
+2021-10-01,Graphite,Odisha,21430.31,1071.52
+2021-11-01,Graphite,Rajasthan,19710.48,985.52
+2021-12-01,Graphite,Tamil Nadu,18717.54,935.88
+2022-01-01,Graphite,Jharkhand,18667.03,933.35
+2022-02-01,Graphite,Jharkhand,19290.24,964.51
+2022-03-01,Graphite,Tamil Nadu,19751.5,987.58
+2022-04-01,Graphite,Jharkhand,19931.86,996.59
+2022-05-01,Graphite,Jharkhand,20566.96,1028.35
+2022-06-01,Graphite,Rajasthan,20100.05,1005.0
+2022-07-01,Graphite,Jharkhand,20107.85,1005.39
+2022-08-01,Graphite,Jharkhand,17961.81,898.09
+2022-09-01,Graphite,Jharkhand,20571.81,1028.59
+2022-10-01,Graphite,Odisha,20780.75,1039.04
+2022-11-01,Graphite,Tamil Nadu,23509.09,1175.45
+2022-12-01,Graphite,Rajasthan,20791.48,1039.57
+2023-01-01,Graphite,Jharkhand,18107.82,905.39
+2023-02-01,Graphite,Tamil Nadu,21015.83,1050.79
+2023-03-01,Graphite,Jharkhand,22255.56,1112.78
+2023-04-01,Graphite,Odisha,20344.67,1017.23
+2023-05-01,Graphite,Odisha,18790.43,939.52
+2023-06-01,Graphite,Jharkhand,22999.78,1149.99
+2023-07-01,Graphite,Jharkhand,24075.73,1203.79
+2023-08-01,Graphite,Jharkhand,18715.17,935.76
+2023-09-01,Graphite,Odisha,20423.56,1021.18
+2023-10-01,Graphite,Odisha,24368.19,1218.41
+2023-11-01,Graphite,Tamil Nadu,22376.14,1118.81
+2023-12-01,Graphite,Rajasthan,22006.86,1100.34
+2024-01-01,Graphite,Rajasthan,21584.56,1079.23
+2024-02-01,Graphite,Odisha,20312.39,1015.62
+2024-03-01,Graphite,Rajasthan,19698.79,984.94
+2024-04-01,Graphite,Jharkhand,23749.26,1187.46
+2024-05-01,Graphite,Tamil Nadu,20089.46,1004.47
+2024-06-01,Graphite,Odisha,22401.54,1120.08
+2024-07-01,Graphite,Odisha,24115.46,1205.77
+2024-08-01,Graphite,Rajasthan,21105.87,1055.29
+2024-09-01,Graphite,Jharkhand,21298.5,1064.92
+2024-10-01,Graphite,Tamil Nadu,25011.06,1250.55
+2024-11-01,Graphite,Rajasthan,25184.51,1259.23
+2024-12-01,Graphite,Odisha,23586.59,1179.33

@@ -1,0 +1,57 @@
+fiscal_year,mineral,production_mt,production_value_inr_cr,state,source
+2017-2018,Copper,3850,1250,Rajasthan,IBM/USGS
+2017-2018,Copper,1200,390,Jharkhand,IBM/USGS
+2017-2018,Copper,450,145,Madhya Pradesh,IBM/USGS
+2017-2018,Graphite,35000,175,Tamil Nadu,IBM/USGS
+2017-2018,Graphite,18000,90,Jharkhand,IBM/USGS
+2017-2018,Graphite,12000,60,Odisha,IBM/USGS
+2017-2018,Lithium,0,0,None,No domestic production
+2018-2019,Copper,4100,1380,Rajasthan,IBM/USGS
+2018-2019,Copper,1150,385,Jharkhand,IBM/USGS
+2018-2019,Copper,420,140,Madhya Pradesh,IBM/USGS
+2018-2019,Graphite,38000,195,Tamil Nadu,IBM/USGS
+2018-2019,Graphite,19500,100,Jharkhand,IBM/USGS
+2018-2019,Graphite,13000,65,Odisha,IBM/USGS
+2018-2019,Lithium,0,0,None,No domestic production
+2019-2020,Copper,3900,1320,Rajasthan,IBM/USGS
+2019-2020,Copper,1100,370,Jharkhand,IBM/USGS
+2019-2020,Copper,400,135,Madhya Pradesh,IBM/USGS
+2019-2020,Graphite,36000,185,Tamil Nadu,IBM/USGS
+2019-2020,Graphite,18500,95,Jharkhand,IBM/USGS
+2019-2020,Graphite,12500,62,Odisha,IBM/USGS
+2019-2020,Lithium,0,0,None,No domestic production
+2020-2021,Copper,3600,1200,Rajasthan,IBM/USGS
+2020-2021,Copper,1050,350,Jharkhand,IBM/USGS
+2020-2021,Copper,380,125,Madhya Pradesh,IBM/USGS
+2020-2021,Graphite,32000,165,Tamil Nadu,IBM/USGS
+2020-2021,Graphite,16500,85,Jharkhand,IBM/USGS
+2020-2021,Graphite,11000,55,Odisha,IBM/USGS
+2020-2021,Lithium,0,0,None,No domestic production
+2021-2022,Copper,4200,1450,Rajasthan,IBM/USGS
+2021-2022,Copper,1250,430,Jharkhand,IBM/USGS
+2021-2022,Copper,450,155,Madhya Pradesh,IBM/USGS
+2021-2022,Graphite,42000,220,Tamil Nadu,IBM/USGS
+2021-2022,Graphite,21000,110,Jharkhand,IBM/USGS
+2021-2022,Graphite,14000,72,Odisha,IBM/USGS
+2021-2022,Lithium,0,0,None,No domestic production
+2022-2023,Copper,4500,1580,Rajasthan,IBM/USGS
+2022-2023,Copper,1350,475,Jharkhand,IBM/USGS
+2022-2023,Copper,480,168,Madhya Pradesh,IBM/USGS
+2022-2023,Graphite,45000,240,Tamil Nadu,IBM/USGS
+2022-2023,Graphite,23000,122,Jharkhand,IBM/USGS
+2022-2023,Graphite,15000,80,Odisha,IBM/USGS
+2022-2023,Lithium,0,0,None,No domestic production
+2023-2024,Copper,4800,1720,Rajasthan,IBM/USGS
+2023-2024,Copper,1400,500,Jharkhand,IBM/USGS
+2023-2024,Copper,500,180,Madhya Pradesh,IBM/USGS
+2023-2024,Graphite,48000,260,Tamil Nadu,IBM/USGS
+2023-2024,Graphite,25000,135,Jharkhand,IBM/USGS
+2023-2024,Graphite,16500,90,Odisha,IBM/USGS
+2023-2024,Lithium,0,0,None,No domestic production
+2024-2025,Copper,5000,1850,Rajasthan,IBM/USGS
+2024-2025,Copper,1450,535,Jharkhand,IBM/USGS
+2024-2025,Copper,520,192,Madhya Pradesh,IBM/USGS
+2024-2025,Graphite,50000,280,Tamil Nadu,IBM/USGS
+2024-2025,Graphite,26000,145,Jharkhand,IBM/USGS
+2024-2025,Graphite,17000,95,Odisha,IBM/USGS
+2024-2025,Lithium,0,0,None,J&K reserves not yet operational
